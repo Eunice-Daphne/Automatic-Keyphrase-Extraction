@@ -1,0 +1,5 @@
+Online_JJ spelling_NN correction_NN for_IN query_NN completion_NN In_IN this_DT paper_NN ,_, we_PRP study_VBD the_DT problem_NN of_IN online_JJ spelling_NN correction_NN for_IN query_NN completions_NNS ._.
+Misspelling_NNP is_VBZ a_DT common_JJ phenomenon_NN among_IN search_NN engines_NNS queries_NNS ._.
+In_IN order_NN to_TO help_VB users_NNS effectively_RB express_VBP their_PRP$ information_NN needs_NNS ,_, mechanisms_NNS for_IN automatically_RB correcting_VBG misspelled_VBN queries_NNS are_VBP required_VBN ._.
+Online_JJ spelling_NN correction_NN aims_VBZ to_TO provide_VB spell_NN corrected_JJ completion_NN suggestions_NNS as_IN a_DT query_NN is_VBZ incrementally_RB entered_VBN ._.
+As_IN latency_NN is_VBZ crucial_JJ to_TO the_DT utility_NN of_IN the_DT suggestions_NNS ,_, such_PDT an_DT algorithm_NN needs_VBZ to_TO be_VB not_RB only_RB accurate_JJ ,_, but_CC also_RB efficient_JJ ._.

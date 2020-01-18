@@ -1,0 +1,5 @@
+Einstein_NNP :_: physicist_NN or_CC vegetarian_NN ?_.
+summarizing_VBG semantic_JJ type_NN graphs_NNS for_IN knowledge_NN discovery_NN The_DT Web_NN and_CC ,_, in_IN particular_JJ ,_, knowledge-sharing_JJ communities_NNS such_JJ as_IN Wikipedia_NNP contain_VBP a_DT huge_JJ amount_NN of_IN information_NN encompassing_VBG disparate_JJ and_CC diverse_JJ fields_NNS ._.
+Knowledge_NN bases_NNS such_JJ as_IN DBpedia_NN or_CC Yago_NNP represent_VBP the_DT data_NNS in_IN a_DT concise_JJ and_CC more_RBR structured_JJ way_NN bearing_VBG the_DT potential_NN of_IN bringing_VBG database_NN tools_NNS to_TO Web_NN Search_VB ._.
+The_DT wealth_NN of_IN data_NNS ,_, however_RB ,_, poses_VBZ the_DT challenge_NN of_IN how_WRB to_TO retrieve_VB important_JJ and_CC valuable_JJ information_NN ,_, which_WDT is_VBZ often_RB intertwined_VBN with_IN trivial_JJ and_CC less_RBR important_JJ details_NNS ._.
+This_DT calls_VBZ for_IN an_DT efficient_JJ and_CC automatic_JJ summarization_NN method_NN ._.

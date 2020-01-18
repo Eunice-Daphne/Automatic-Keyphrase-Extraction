@@ -1,0 +1,7 @@
+Two-stream_JJ indexing_NN for_IN spoken_VBN web_NN search_NN This_DT paper_NN presents_VBZ two-stream_JJ processing_NN of_IN audio_NN to_TO index_NN the_DT audio_JJ content_NN for_IN Spoken_JJ Web_NN search_NN ._.
+The_DT first_JJ stream_NN indexes_NNS the_DT meta-data_NN associated_VBN with_IN a_DT particular_JJ audio_NN document_NN ._.
+The_DT meta-data_NN is_VBZ usually_RB very_RB sparse_JJ ,_, but_CC accurate_JJ ._.
+This_DT therefore_RB results_VBZ in_IN a_DT high-precision_JJ ,_, low-recall_JJ index_NN ._.
+The_DT second_JJ stream_NN uses_VBZ a_DT novel_JJ language-independent_JJ speech_NN recognition_NN to_TO generate_VB text_NN to_TO be_VB indexed_VBN ._.
+Owing_VBG to_TO the_DT multiple_JJ languages_NNS and_CC the_DT noise_NN in_IN user_NN generated_VBD content_NN on_IN the_DT Spoken_NNP Web_NN ,_, the_DT speech_NN recognition_NN accuracy_NN of_IN such_JJ systems_NNS is_VBZ not_RB high_JJ ,_, thus_RB they_PRP result_VBP in_IN a_DT low-precision_JJ ,_, high-recall_JJ index_NN ._.
+The_DT paper_NN attempts_VBZ to_TO use_VB these_DT two_CD complementary_JJ streams_NNS to_TO generate_VB a_DT combined_JJ index_NN to_TO increase_VB the_DT precision-recall_JJ performance_NN in_IN audio_JJ content_NN search_NN ._.

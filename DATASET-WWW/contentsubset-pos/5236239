@@ -1,0 +1,4 @@
+Trust-based_JJ recommendation_NN systems_NNS :_: an_DT axiomatic_JJ approach_NN High-quality_JJ ,_, personalized_JJ recommendations_NNS are_VBP a_DT key_JJ feature_NN in_IN many_JJ online_JJ systems_NNS ._.
+Since_IN these_DT systems_NNS often_RB have_VBP explicit_JJ knowledge_NN of_IN social_JJ network_NN structures_NNS ,_, the_DT recommendations_NNS may_MD incorporate_VB this_DT information_NN ._.
+This_DT paper_NN focuses_VBZ on_IN networks_NNS that_WDT represent_VBP trust_NN and_CC recommendation_NN systems_NNS that_WDT incorporate_VBP these_DT trust_NN relationships_NNS ._.
+The_DT goal_NN of_IN a_DT trust-based_JJ recommendation_NN system_NN is_VBZ to_TO generate_VB personalized_JJ recommendations_NNS by_IN aggregating_VBG the_DT opinions_NNS of_IN other_JJ users_NNS in_IN the_DT trust_NN network_NN ._.

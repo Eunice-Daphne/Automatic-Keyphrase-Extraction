@@ -1,0 +1,7 @@
+Parallel_JJ boosted_VBN regression_NN trees_NNS for_IN web_NN search_NN ranking_NN Gradient_NNP Boosted_NNP Regression_NN Trees_NNP -LRB-_-LRB- GBRT_NNP -RRB-_-RRB- are_VBP the_DT current_JJ state-of-the-art_JJ learning_NN paradigm_NN for_IN machine_NN learned_VBD web-search_JJ ranking_NN -_: a_DT domain_NN notorious_JJ for_IN very_RB large_JJ data_NNS sets_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ method_NN for_IN parallelizing_VBG the_DT training_NN of_IN GBRT_NN ._.
+Our_PRP$ technique_NN parallelizes_VBZ the_DT construction_NN of_IN the_DT individual_JJ regression_NN trees_NNS and_CC operates_VBZ using_VBG the_DT master-worker_JJ paradigm_NN as_IN follows_VBZ ._.
+The_DT data_NNS are_VBP partitioned_VBN among_IN the_DT workers_NNS ._.
+At_IN each_DT iteration_NN ,_, the_DT worker_NN summarizes_VBZ its_PRP$ data-partition_NN using_VBG histograms_NNS ._.
+The_DT master_NN processor_NN uses_VBZ these_DT to_TO build_VB one_CD layer_NN of_IN a_DT regression_NN tree_NN ,_, and_CC then_RB sends_VBZ this_DT layer_NN to_TO the_DT workers_NNS ,_, allowing_VBG the_DT workers_NNS to_TO build_VB histograms_NNS for_IN the_DT next_JJ layer_NN ._.
+Our_PRP$ algorithm_NN carefully_RB orchestrates_VBZ overlap_VB between_IN communication_NN and_CC computation_NN to_TO achieve_VB good_JJ performance_NN ._.

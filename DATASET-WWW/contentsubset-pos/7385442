@@ -1,0 +1,5 @@
+Better_NNP abstractions_NNS for_IN secure_JJ server-side_JJ scripting_NN It_PRP is_VBZ notoriously_RB difficult_JJ to_TO program_VB a_DT solid_JJ web_NN application_NN ._.
+Besides_IN addressing_VBG web_NN interactions_NNS ,_, state_NN maintenance_NN ,_, and_CC whimsical_JJ user_NN navigation_NN behaviors_NNS ,_, programmers_NNS must_MD also_RB avoid_VB a_DT minefield_NN of_IN security_NN vulnerabilities_NNS ._.
+The_DT problem_NN is_VBZ twofold_JJ ._.
+First_RB ,_, we_PRP lack_VBP a_DT clear_JJ understanding_NN of_IN the_DT new_JJ computation_NN model_NN underlying_VBG web_NN applications_NNS ._.
+Second_RB ,_, we_PRP lack_VBP proper_JJ abstractions_NNS for_IN hiding_VBG common_JJ and_CC subtle_JJ coding_NN details_NNS that_WDT are_VBP orthogonal_JJ to_TO the_DT business_NN functionalities_NNS of_IN specific_JJ web_NN applications_NNS ._.

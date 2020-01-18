@@ -1,0 +1,6 @@
+Estimating_VBG the_DT web_NN robot_NN population_NN In_IN this_DT research_NN ,_, capture-recapture_NN -LRB-_-LRB- CR_NN -RRB-_-RRB- models_NNS are_VBP used_VBN to_TO estimate_VB the_DT population_NN of_IN web_NN robots_NNS based_VBN on_IN web_NN server_NN access_NN logs_NNS from_IN different_JJ websites_NNS ._.
+Each_DT robot_NN is_VBZ considered_VBN as_IN an_DT individual_NN randomly_RB surfing_VBG the_DT web_NN and_CC each_DT website_NN is_VBZ considered_VBN as_IN a_DT trap_NN that_WDT records_VBZ the_DT visitation_NN of_IN robots_NNS ._.
+We_PRP use_VBP maximum_JJ likelihood_NN estimator_NN to_TO fit_VB the_DT observation_NN data_NNS ._.
+Results_NNS show_VBP that_IN there_EX are_VBP 3,860_CD identifiable_JJ robot_NN User-Agent_JJ strings_NNS and_CC 780,760_CD IP_NNP addresses_NNS being_VBG used_VBN by_IN web_NN robots_NNS around_IN the_DT world_NN ._.
+We_PRP also_RB examine_VBP the_DT origination_NN of_IN the_DT named_VBN robots_NNS by_IN their_PRP$ IP_NNP addresses_NNS ._.
+The_DT results_NNS suggest_VBP that_IN over_IN 50_CD %_NN of_IN web_NN robot_NN IP_NNP addresses_NNS are_VBP from_IN United_NNP States_NNPS and_CC China_NNP ._.

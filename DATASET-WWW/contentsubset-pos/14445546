@@ -1,0 +1,4 @@
+WISER_NNP :_: a_DT web-based_JJ interactive_JJ route_NN search_NN system_NN for_IN smartphones_NNS Many_JJ smartphones_NNS ,_, nowadays_RB ,_, use_NN GPS_NN to_TO detect_VB the_DT location_NN of_IN the_DT user_NN ,_, and_CC can_MD use_VB the_DT Internet_NNP to_TO interact_VB with_IN remote_JJ location-based_JJ services_NNS ._.
+These_DT two_CD capabilities_NNS support_VBP online_JJ navigation_NN that_WDT incorporates_VBZ search_NN ._.
+In_IN this_DT demo_NN we_PRP presents_VBZ WISER_NNP --_: a_DT system_NN for_IN Web-based_JJ Interactive_NNP Search_VB en_IN Route_NNP ._.
+In_IN the_DT system_NN ,_, users_NNS perform_VBP route_NN search_NN by_IN providing_VBG -LRB-_-LRB- 1_LS -RRB-_-RRB- a_DT target_NN location_NN ,_, and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- search_NN terms_NNS that_WDT specify_VBP types_NNS of_IN geographic_JJ entities_NNS to_TO be_VB visited_VBN ._.

@@ -1,0 +1,4 @@
+Network-aware_JJ forward_JJ caching_NN This_DT paper_NN proposes_VBZ and_CC evaluates_VBZ a_DT Network_NNP Aware_NNP Forward_NNP Caching_NNP approach_NN for_IN determining_VBG the_DT optimal_JJ deployment_NN strategy_NN of_IN forward_JJ caches_NNS to_TO a_DT network_NN ._.
+A_DT key_JJ advantage_NN of_IN this_DT approach_NN is_VBZ that_IN we_PRP can_MD reduce_VB the_DT network_NN costs_NNS associated_VBN with_IN forward_JJ caching_NN to_TO maximize_VB the_DT benefit_NN obtained_VBN from_IN their_PRP$ deployment_NN ._.
+We_PRP show_VBP in_IN our_PRP$ simulation_NN that_IN a_DT 37_CD %_NN increase_NN to_TO net_JJ benefits_NNS could_MD be_VB achieved_VBN over_IN the_DT standard_JJ method_NN of_IN full_JJ cache_NN deployment_NN to_TO cache_NN all_RB POPs_VBZ traffic_NN ._.
+In_IN addition_NN ,_, we_PRP show_VBP that_IN this_DT maximal_JJ point_NN occurs_VBZ when_WRB only_RB 68_CD %_NN of_IN the_DT total_JJ traffic_NN is_VBZ cached_VBN ._.

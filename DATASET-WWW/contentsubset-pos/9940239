@@ -1,0 +1,4 @@
+A_DT contextual-bandit_JJ approach_NN to_TO personalized_JJ news_NN article_NN recommendation_NN Personalized_JJ web_NN services_NNS strive_VBP to_TO adapt_VB their_PRP$ services_NNS -LRB-_-LRB- advertisements_NNS ,_, news_NN articles_NNS ,_, etc._NN -RRB-_-RRB- to_TO individual_JJ users_NNS by_IN making_VBG use_NN of_IN both_CC content_NN and_CC user_NN information_NN ._.
+Despite_IN a_DT few_JJ recent_JJ advances_NNS ,_, this_DT problem_NN remains_VBZ challenging_JJ for_IN at_IN least_JJS two_CD reasons_NNS ._.
+First_RB ,_, web_NN service_NN is_VBZ featured_VBN with_IN dynamically_RB changing_VBG pools_NNS of_IN content_NN ,_, rendering_VBG traditional_JJ collaborative_JJ filtering_VBG methods_NNS inapplicable_JJ ._.
+Second_RB ,_, the_DT scale_NN of_IN most_JJS web_NN services_NNS of_IN practical_JJ interest_NN calls_VBZ for_IN solutions_NNS that_WDT are_VBP both_DT fast_JJ in_IN learning_NN and_CC computation_NN ._.

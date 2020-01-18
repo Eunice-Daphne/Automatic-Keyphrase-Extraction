@@ -1,0 +1,3 @@
+Exploiting_VBG web_NN search_NN to_TO generate_VB synonyms_NNS for_IN entities_NNS Tasks_NNS recognizing_VBG named_VBN entities_NNS such_JJ as_IN products_NNS ,_, people_NNS names_NNS ,_, or_CC locations_NNS from_IN documents_NNS have_VBP recently_RB received_VBN significant_JJ attention_NN in_IN the_DT literature_NN ._.
+Many_JJ solutions_NNS to_TO these_DT tasks_NNS assume_VBP the_DT existence_NN of_IN reference_NN entity_NN tables_NNS ._.
+An_DT important_JJ challenge_NN that_WDT needs_VBZ to_TO be_VB addressed_VBN in_IN the_DT entity_NN extraction_NN task_NN is_VBZ that_DT of_IN ascertaining_VBG whether_IN or_CC not_RB a_DT candidate_NN string_NN approximately_RB matches_VBZ with_IN a_DT named_VBN entity_NN in_IN a_DT given_VBN reference_NN table_NN ._.

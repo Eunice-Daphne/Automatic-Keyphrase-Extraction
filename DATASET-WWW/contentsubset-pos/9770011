@@ -1,0 +1,6 @@
+Anycast-aware_JJ transport_NN for_IN content_JJ delivery_NN networks_NNS Anycast-based_JJ content_JJ delivery_NN networks_NNS -LRB-_-LRB- CDNs_NNS -RRB-_-RRB- have_VBP many_JJ properties_NNS that_WDT make_VBP them_PRP ideal_JJ for_IN the_DT large_JJ scale_NN distribution_NN of_IN content_NN on_IN the_DT Internet_NN ._.
+However_RB ,_, because_IN routing_VBG changes_NNS can_MD result_VB in_IN a_DT change_NN of_IN the_DT endpoint_NN that_WDT terminates_VBZ the_DT TCP_NNP session_NN ,_, TCP_NN session_NN disruption_NN remains_VBZ a_DT concern_NN for_IN anycast_JJ CDNs_NNS ,_, especially_RB for_IN large_JJ file_NN downloads_NNS ._.
+In_IN this_DT paper_NN we_PRP demonstrate_VBP that_IN this_DT problem_NN does_VBZ not_RB require_VB any_DT complex_JJ solutions_NNS ._.
+In_IN particular_JJ ,_, we_PRP present_VBP the_DT design_NN of_IN a_DT simple_NN ,_, yet_RB efficient_JJ ,_, mechanism_NN to_TO handle_VB session_NN disruptions_NNS due_JJ to_TO endpoint_JJ changes_NNS ._.
+With_IN our_PRP$ mechanism_NN ,_, a_DT client_NN can_MD continue_VB the_DT download_NN of_IN the_DT content_NN from_IN the_DT point_NN at_IN which_WDT it_PRP was_VBD before_IN the_DT endpoint_JJ change_NN ._.
+Furthermore_RB ,_, CDN_NN servers_NNS purge_VBP the_DT TCP_NN connection_NN state_NN quickly_RB to_TO handle_VB frequent_JJ switching_NN with_IN low_JJ system_NN overhead_NN ._.

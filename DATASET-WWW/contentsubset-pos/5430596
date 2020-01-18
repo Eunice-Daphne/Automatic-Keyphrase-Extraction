@@ -1,0 +1,3 @@
+XML_NN design_NN for_IN relational_JJ storage_NN Design_NN principles_NNS for_IN XML_NN schemas_NNS that_WDT eliminate_VBP redundancies_NNS and_CC avoid_VB update_VBP anomalies_NNS have_VBP been_VBN studied_VBN recently_RB ._.
+Several_JJ normal_JJ forms_NNS ,_, generalizing_VBG those_DT for_IN relational_JJ databases_NNS ,_, have_VBP been_VBN proposed_VBN ._.
+All_DT of_IN them_PRP ,_, however_RB ,_, are_VBP based_VBN on_IN the_DT assumption_NN of_IN anative_JJ XML_NN storage_NN ,_, while_IN in_IN practice_NN most_JJS of_IN XML_NN data_NNS is_VBZ stored_VBN inrelational_JJ databases_NNS ._.

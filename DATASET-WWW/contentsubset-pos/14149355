@@ -1,0 +1,5 @@
+On_IN revenue_NN in_IN the_DT generalized_JJ second_JJ price_NN auction_NN The_DT Generalized_NNP Second_NNP Price_NNP -LRB-_-LRB- GSP_NNP -RRB-_-RRB- auction_NN is_VBZ the_DT primary_JJ auction_NN used_VBN for_IN selling_VBG sponsored_VBN search_NN advertisements_NNS ._.
+In_IN this_DT paper_NN we_PRP consider_VBP the_DT revenue_NN of_IN this_DT auction_NN at_IN equilibrium_NN ._.
+We_PRP prove_VBP that_IN if_IN agent_NN values_NNS are_VBP drawn_VBN from_IN identical_JJ regular_JJ distributions_NNS ,_, then_RB the_DT GSP_NNP auction_NN paired_VBN with_IN an_DT appropriate_JJ reserve_NN price_NN generates_VBZ a_DT constant_JJ fraction_NN -LRB-_-LRB- 1\/6th_NN -RRB-_-RRB- of_IN the_DT optimal_JJ revenue_NN ._.
+In_IN the_DT full-information_NN game_NN ,_, we_PRP show_VBP that_IN at_IN any_DT Nash_NNP equilibrium_NN of_IN the_DT GSP_NNP auction_NN obtains_VBZ at_IN least_JJS half_NN of_IN the_DT revenue_NN of_IN the_DT VCG_NNP mechanism_NN excluding_VBG the_DT payment_NN of_IN a_DT single_JJ participant_NN ._.
+This_DT bound_VBD holds_VBZ also_RB with_IN any_DT reserve_NN price_NN ,_, and_CC is_VBZ tight_JJ ._.
